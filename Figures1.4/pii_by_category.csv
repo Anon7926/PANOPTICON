@@ -1,0 +1,8 @@
+Category,With_PII,Without_PII,Total,With_PII_Percent
+Professional,9632,42,9674,99.57
+Finance,9616,58,9674,99.40
+Health,9252,422,9674,95.64
+Relationship,9253,421,9674,95.65
+Government,9039,635,9674,93.44
+Social,9188,486,9674,94.98
+Benign,818,8856,9674,8.46
