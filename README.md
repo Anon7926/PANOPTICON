@@ -7,7 +7,7 @@ pip install -r requirements.txt
 
 2) Download the dataset into the repo root (so it sits alongside prompts/ and src/):
 ```
-git clone https://huggingface.co/datasets/Shayfra7926/PANOPTICON PANOPTICON_v1.4
+git clone https://huggingface.co/datasets/Shayfra7926/PANOPTICON
 ```
 
 3) Generate prompts (single chunk example):
